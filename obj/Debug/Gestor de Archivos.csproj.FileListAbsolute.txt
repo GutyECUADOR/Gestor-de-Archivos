@@ -1,0 +1,10 @@
+C:\Users\GutyECUADOR\source\repos\Gestor de Archivos\Gestor de Archivos\bin\Debug\Gestor de Archivos.exe.config
+C:\Users\GutyECUADOR\source\repos\Gestor de Archivos\Gestor de Archivos\bin\Debug\Gestor de Archivos.exe
+C:\Users\GutyECUADOR\source\repos\Gestor de Archivos\Gestor de Archivos\bin\Debug\Gestor de Archivos.pdb
+C:\Users\GutyECUADOR\source\repos\Gestor de Archivos\Gestor de Archivos\obj\Debug\Gestor de Archivos.csprojAssemblyReference.cache
+C:\Users\GutyECUADOR\source\repos\Gestor de Archivos\Gestor de Archivos\obj\Debug\Gestor_de_Archivos.Form1.resources
+C:\Users\GutyECUADOR\source\repos\Gestor de Archivos\Gestor de Archivos\obj\Debug\Gestor_de_Archivos.Properties.Resources.resources
+C:\Users\GutyECUADOR\source\repos\Gestor de Archivos\Gestor de Archivos\obj\Debug\Gestor de Archivos.csproj.GenerateResource.cache
+C:\Users\GutyECUADOR\source\repos\Gestor de Archivos\Gestor de Archivos\obj\Debug\Gestor de Archivos.csproj.CoreCompileInputs.cache
+C:\Users\GutyECUADOR\source\repos\Gestor de Archivos\Gestor de Archivos\obj\Debug\Gestor de Archivos.exe
+C:\Users\GutyECUADOR\source\repos\Gestor de Archivos\Gestor de Archivos\obj\Debug\Gestor de Archivos.pdb
